@@ -2,7 +2,7 @@
 ## Eu sou o Agnaldo Noronha!
 
 - 🔭 Estou trabalhando atualmente com front-end
-- 🌱 Estou estudando PHP e back-end
+- 🌱 Estou estudando PHP e javascript para back-end (além de seguir me aprofundando no front-end)
 - 📫 Contate-me em: agnaldocarvalho23@gmail.com
 
 <div align="center">
