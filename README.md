@@ -1,8 +1,8 @@
 # Olá, mundo!👋
 ## Eu sou o Agnaldo Noronha!
 
-- 🔭 Estou trabalhando atualmente com front-end
-- 🌱 Estou estudando PHP e javascript para back-end (além de seguir me aprofundando no front-end)
+- 🔭 Estou trabalhando atualmente na área de engenharia civil, migrando para a área de TI.
+- 🌱 Estou estudando Python para back-end.
 - 📫 Contate-me em: agnaldocarvalho23@gmail.com
 - 🧑‍💼 Linkedin: www.linkedin.com/in/agnaldonoronha
 
