@@ -2,7 +2,7 @@
 ## Eu sou o Agnaldo Noronha!
 
 - 🔭 Estou trabalhando atualmente na área de engenharia civil, migrando para a área de TI.
-- 🌱 Estou estudando Python para back-end.
+- 🌱 Estou estudando Python e Power BI para análise de dados.
 - 📫 Contate-me em: agnaldocarvalho23@gmail.com
 - 🧑‍💼 Linkedin: www.linkedin.com/in/agnaldonoronha
 
